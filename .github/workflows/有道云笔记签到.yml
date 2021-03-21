@@ -1,4 +1,4 @@
-name: 有道云笔记签到1
+name: 有道云笔记签到2
 
 on:
   workflow_dispatch: # 手动触发
